@@ -1,0 +1,6 @@
+This is a simple php page to create an XML document from WooCommerce specifically an XML file to import into a Photogrpahy Studio Managment program called Studio Cloud.  One day I might turn this in to a plugin, but it's more important to see how MySQL inquires work to pull data from tables like wp_postmeta where you might want to display data from mulitple rows in one line.
+This can also be used outside of the WP Loop. 
+
+Next I will make it to fit within the Loop and use the WP functions.  I wanted to understand the workings of the database first.
+
+Then I may make a plugin that will allow you to choose what to export since currently there are not any XML exporters that I know of.
